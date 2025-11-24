@@ -10,7 +10,7 @@ p {
 
 
 
-* {
+/* * {
 	padding: 0px;
 	margin: 0px;
 }
@@ -215,4 +215,4 @@ select, option, input, textarea {
   to {
     transform: rotate(359deg);
   }
-}
+} */
