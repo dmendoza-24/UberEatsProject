@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>Front Page — Comment Demo</title>
+	<style>
+		/* CSS comments (use in <style> or .css files):
+			 This is a multi-line CSS comment. */
+		body { font-family: Arial, Helvetica, sans-serif; }
+	</style>
+</head>
+<body>
+
+	<!-- Single-line HTML comment: this will not be visible in the rendered page -->
+	<!-- This is a multi-line HTML comment:
+			 You can write multiple lines and it will still be treated as part of the same comment. -->
+
+	<h1>Welcome</h1>
+	<p>Open the page source (right click -> View page source) to see these comments.</p>
+
+	<script>
+		// JavaScript single-line comment
+		/* JavaScript multi-line comment */
+		console.log('Comments will not affect the code execution.');
+	</script>
+
+	<!--
+		Important HTML comment rules / tips:
+		- Syntax: <!-- comment text -->
+		- Do not use "--" inside comments (e.g., <!-- bad -- comment --> is invalid)
+		- Comments are visible in the source; do NOT include secrets (API keys, passwords, etc.)
+		- HTML comments are not nested: <!-- outer <!-- inner --> outer --> doesn't work
+		- Legacy conditional comments (IE) exist (e.g., <!--[if IE]> ... <![endif]-->) but are deprecated
+	-->
+
+</body>
+</html>
