@@ -148,3 +148,14 @@ button:hover {
     background-color: white;
     color: black;
 }
+
+footer {
+    position: fixed;
+  left: 0;
+  bottom: 0;
+   width: 100%;
+}
+
+body {
+  padding-bottom: 120px;
+}
