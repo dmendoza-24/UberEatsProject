@@ -151,6 +151,11 @@ button:hover, button:visited {
     text-decoration: none;
 }
 
+button:hover a {
+    color: black;
+    text-decoration: none;
+}
+
 form {
     padding-left: 28%; padding-right: 40%;
 }
