@@ -20,20 +20,23 @@ h2 {
 }
 
 p {
-    padding: 15px;
-    color:#000000; font-size: 24;
+    padding-left: 25%; padding-right: 25%;
+    text-align: center;
+    color:#000000; font-size: 36;
     font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 ol {
-    padding: 10px;
-	color: #000000; font-size: 15px;
+    padding-left: 25%; padding-top: 10px;
+    padding-bottom: 10px; padding-right: 25%;
+	color: #000000; font-size: 24;
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
 ul {
-    padding: 10px;
-	color: #000000; font-size: 15px;
+    padding-left: 25%; padding-top: 10px;
+    padding-bottom: 10px; padding-right: 25%;
+	color: #000000; font-size: 24;
 	font-family: "Open Sans", "Helvetica Neue", sans-serif;
 }
 
