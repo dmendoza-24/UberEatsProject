@@ -7,3 +7,5 @@ To see the resulting webpage for yourself, you can download the files and open "
 Cayman Powell | cpowel71@charlotte.edu | https://github.com/caymanpowell
 
 Daniel Mendoza | dmendo11@charlotte.edu | https://github.com/dmendoza-24
+
+Special thanks to HAVK at UNC Charlotte for hosting the hackathon. This project was awarded 1st place. 🎉
