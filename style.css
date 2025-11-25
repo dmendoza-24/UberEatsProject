@@ -13,6 +13,30 @@ h1 {
 	font-family: 'Times New Roman', Georgia, serif;
 }
 
+h2 {
+	padding: 10px; text-align: center;
+	color: #000000; font-size: 30px;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+p {
+    padding: 15px;
+    color:#000000; font-size: 24;
+    font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+ol {
+    padding: 10px;
+	color: #000000; font-size: 15px;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+ul {
+    padding: 10px;
+	color: #000000; font-size: 15px;
+	font-family: "Open Sans", "Helvetica Neue", sans-serif;
+}
+
 .container {
   position: relative;
   text-align: center;
@@ -131,12 +155,6 @@ h1 {
 	padding: 10px;
 	color: #77D970; font-size: 36px;
 	font-family: 'Rubik Mono One', monospace;
-}
-
-h2 {
-	padding: 10px;
-	color: #abf7b1; font-size: 30px;
-	font-family: "Courier New", monospace;
 }
 
 p {
