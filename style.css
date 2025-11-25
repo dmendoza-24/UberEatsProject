@@ -124,7 +124,7 @@ ul {
   }
 }
 
-a:visited a:hover a:active a:link a:focus {
+a:visited, a:hover, a:active, a:link, a:focus {
   color: #ffffff;
 }
 
