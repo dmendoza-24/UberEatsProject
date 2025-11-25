@@ -5,4 +5,5 @@ To see the resulting webpage for yourself, you can download the files and open "
 ![front_page.png](front_page.png)
 
 Cayman Powell | cpowel71@charlotte.edu | https://github.com/CPowell71
+
 Daniel Mendoza | dmendo11@charlotte.edu | https://github.com/dmendoza-24
