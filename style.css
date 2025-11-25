@@ -149,6 +149,10 @@ button:hover {
     color: black;
 }
 
+form {
+    padding-left: 28%; padding-right: 40%;
+}
+
 footer {
     position: fixed;
   left: 0;
